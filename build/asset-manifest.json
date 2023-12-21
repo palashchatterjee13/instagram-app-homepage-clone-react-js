@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instagram-app-homepage-clone-react-js/build/static/css/main.9920485d.css",
+    "main.js": "/instagram-app-homepage-clone-react-js/build/static/js/main.b302c315.js",
+    "index.html": "/instagram-app-homepage-clone-react-js/build/index.html",
+    "main.9920485d.css.map": "/instagram-app-homepage-clone-react-js/build/static/css/main.9920485d.css.map",
+    "main.b302c315.js.map": "/instagram-app-homepage-clone-react-js/build/static/js/main.b302c315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9920485d.css",
+    "static/js/main.b302c315.js"
+  ]
+}
